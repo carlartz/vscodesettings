@@ -1,1 +1,38 @@
-// Empty
+{
+    // Command Prompt
+"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+"workbench.colorTheme": "Night Owl",
+"team.showWelcomeMessage": false,
+"tfvc.location": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\tf.exe",
+"tfvc.restrictWorkspace": true,
+"window.zoomLevel": 1,
+"files.autoSave": "afterDelay",
+"[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"editor.formatOnPaste": true,
+"editor.formatOnSave": true,
+"editor.formatOnType": true,
+"testExplorer.showOnRun": true,
+"[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"jest.showCoverageOnLoad": true,
+"explorer.confirmDelete": false,
+"typescript.updateImportsOnFileMove.enabled": "always",
+"team.pinnedQueries": [
+
+    {
+        "account": "",
+        "queryText": "",
+        "queryPath": ""
+    }
+],
+"editor.fontSize": 16
+}

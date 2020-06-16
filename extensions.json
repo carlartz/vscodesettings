@@ -7,7 +7,7 @@
     },
     "name": "Bookmarks",
     "publisher": "alefragnani",
-    "version": "11.1.0"
+    "version": "11.3.0"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.12.6"
+    "version": "4.12.8"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "4.5.0"
+    "version": "5.0.0"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "sass-indented",
     "publisher": "syler",
-    "version": "1.8.3"
+    "version": "1.8.5"
   },
   {
     "metadata": {
@@ -167,7 +167,7 @@
     },
     "name": "vscode-jest-runner",
     "publisher": "firsttris",
-    "version": "0.4.15"
+    "version": "0.4.22"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "vscode-test-explorer",
     "publisher": "hbenl",
-    "version": "2.18.0"
+    "version": "2.19.1"
   },
   {
     "metadata": {

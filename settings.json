@@ -23,7 +23,6 @@
 "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"jest.showCoverageOnLoad": true,
 "explorer.confirmDelete": false,
 "typescript.updateImportsOnFileMove.enabled": "always",
 "team.pinnedQueries": [
@@ -34,5 +33,7 @@
         "queryPath": ""
     }
 ],
-"editor.fontSize": 16
+"editor.fontSize": 16,
+"sync.gist": "229fdd9381e9578fa08de85dc06c697c",
+"diffEditor.ignoreTrimWhitespace": false
 }

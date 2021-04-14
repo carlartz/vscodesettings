@@ -1,39 +1,46 @@
 {
-    // Command Prompt
-"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-"workbench.colorTheme": "Night Owl",
-"team.showWelcomeMessage": false,
-"tfvc.location": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\tf.exe",
-"tfvc.restrictWorkspace": true,
-"window.zoomLevel": 1,
-"files.autoSave": "afterDelay",
-"[json]": {
+  // Command Prompt
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "workbench.colorTheme": "Night Owl",
+  "team.showWelcomeMessage": false,
+  "tfvc.location": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\tf.exe",
+  "files.autoSave": "afterDelay",
+  "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"[vue]": {
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "testExplorer.showOnRun": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
 },
-"[javascript]": {
+  "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"editor.formatOnPaste": true,
-"editor.formatOnSave": true,
-"editor.formatOnType": true,
-"testExplorer.showOnRun": true,
-"[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"explorer.confirmDelete": false,
-"typescript.updateImportsOnFileMove.enabled": "always",
-"team.pinnedQueries": [
-
+  },
+  "explorer.confirmDelete": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "team.pinnedQueries": [
     {
-        "account": "",
-        "queryText": "",
-        "queryPath": ""
+      "account": "",
+      "queryText": "",
+      "queryPath": ""
     }
-],
-"editor.fontSize": 16,
-"sync.gist": "229fdd9381e9578fa08de85dc06c697c",
-"diffEditor.ignoreTrimWhitespace": false
+  ],
+  "editor.fontSize": 13,
+ 
+  "sync.gist": "229fdd9381e9578fa08de85dc06c697c",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "team.logging.level": "verbose",
+  "tfvc.restrictWorkspace": true,
+  "http.proxyAuthorization": null,
+"team.showFarewellMessage": false,
+"editor.fontFamily": "Fira Code, 'Courier New', monospace",
+"window.zoomLevel": 1
 }

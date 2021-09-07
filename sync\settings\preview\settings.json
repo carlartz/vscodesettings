@@ -39,7 +39,6 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "team.logging.level": "verbose",
   "tfvc.restrictWorkspace": true,
-  "http.proxyAuthorization": null,
 "team.showFarewellMessage": false,
 "editor.fontFamily": "Fira Code, 'Courier New', monospace",
 "vsicons.presets.tsOfficial": true,
